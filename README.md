@@ -27,4 +27,4 @@ Ventura: ❔ not tested ( please contact me if it does work! )
 
 Sonoma: ❔ not tested ( will probably work but please contact me if it does work! )
 
-Sequoia: ✅ WORKS ( Version 15.0 / 15.1 )
+Sequoia: ✅ WORKS ( Version 15.0 / 15.1 / 15.2 BETA )
